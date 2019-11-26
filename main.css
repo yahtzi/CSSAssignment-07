@@ -60,13 +60,13 @@ p {
 }
 
 #footer-container {
-	
+	display: grid;
 }
 
 #header-container {
-
+	display: grid;
 }
 
 #main-container {
-
+	display: grid;
 }
